@@ -1,0 +1,30 @@
+*{
+    font-family: "poppins", sans-serif;
+}
+
+.tes{
+    color: orange;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+
+.adul2{
+    font-size: 4rem;
+    line-height: 4.5rem;
+}
+
+.adul1{
+    font-size: 2rem;
+}
+
+.teks{
+    margin-left: -100px;
+}
+
+.hal{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
